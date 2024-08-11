@@ -3,10 +3,19 @@
 
 <img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preeti2op&label=Profile%20views&color=0e75b6&style=flat" alt="preeti2op" /> </p>
 
-- 📫 How to reach me **sonujha50507@gmail.com**
+- 🔭 I’m currently **Sharping my skills in AI**
+
+- 🌱 I’m currently learning **Machine learning, DSA, Deep Learning**
+
+- 👯 I’m looking to collaborate on **Image Processing**
+
+- 🤝 I’m looking for help with **Machine Learning and Deep Learning.**
+
+- 💬 Ask me about **Python, Machine Learning and Data Science.**
+
+- 📫 How to reach me **upadhyaypreeti074@gmail.com**
 
 - ⚡ Fun fact **I like to play Chees in my free time.**
 
